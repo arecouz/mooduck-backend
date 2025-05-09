@@ -1,7 +1,9 @@
-# 🐮 MooDuck Backend 🦆
-🚧 **Progress: Laying foundations** 🚧
+# 🐮 MooDuck Backend 🐮
+🚧 **Progress: Laying foundations** 
 
 This is the backend for the MooDuck app — a mood-tracking service that both sends and receives emails to engage users in regular emotional check-ins. Users receive daily or weekly prompts asking how they’re feeling, and their email replies are automatically processed and stored in Supabase. This backend manages email handling, data processing, and serves mood data to the frontend for visualization and user interaction.
+
+🦆 [**MooDuck Frontend**](https://github.com/arecouz/mooduck-frontend)
 
 ## 🚀 Tech Stack
 - **Node.js** with **TypeScript**
