@@ -50,14 +50,4 @@ This is the backend for the MooDuck app — a mood-tracking app that sends users
 
 ---
 
-## 📬 Webhooks
-
-https://mooduck.xyz/hook/inbound
-This route:
-- Receives incoming user replies
-- Uses OpenAI to parse mood
-- Stores the mood in Supabase
-
----
-
 🐄 moo.
